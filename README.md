@@ -28,6 +28,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
+## 🌐 Link do Projeto
+
+Você pode acessar a versão online do **Travelgram** clicando no link abaixo:
+
+https://travelgram-azure.vercel.app/
+
+---
+
 ## 💻 Funcionalidades
 
 - Exibição do **perfil de um usuário** com imagem e informações.
