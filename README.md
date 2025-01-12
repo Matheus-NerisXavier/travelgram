@@ -1,5 +1,3 @@
-# Travelgram
-
 <h1 align="center">Travelgram</h1>
 
 <p align="center">
