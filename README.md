@@ -24,8 +24,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - **HTML5**: Para a estruturação semântica da página.
 - **CSS3**: Para a estilização do layout e dos componentes.
 - **Flexbox**: Utilizado para o alinhamento e a distribuição de elementos de forma fluida.
-- **Grid**: Para a organização e a criação do layout da galeria de fotos.
-
 ---
 
 ## 🌐 Link do Projeto
